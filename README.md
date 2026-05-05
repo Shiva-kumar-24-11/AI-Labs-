@@ -1,4 +1,4 @@
-# 🤖 Artificial Intelligence Lab (01CT0616)
+# 🤖 Artificial Intelligence Lab
 
 This repository contains all Artificial Intelligence lab experiments performed as part of my **B.Tech ICT curriculum at Marwadi University**.
 
